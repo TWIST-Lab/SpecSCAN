@@ -1,0 +1,10 @@
+train: train_data/images/train
+val: train_data/images/val
+test: train_data/images/test
+
+# Classes
+names:
+  0: Radar
+  1: LTE
+  2: DSSS
+  3: 5G
